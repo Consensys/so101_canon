@@ -10,10 +10,10 @@ A crowdsourced knowledge base on any and all things self-management/organization
 
 ***
 
-# Frameworks
-* Agile
-* Holacracy
-* Sociocracy
+# Primary Frameworks
+* [Agile](http://agilemethodology.org/)
+* [Holacracy](https://www.holacracy.org/)
+* [Sociocracy](https://sociocracy30.org/)
 * [Teal Organizations](http://www.reinventingorganizationswiki.com/Teal_Organizations) 
 
 ***
