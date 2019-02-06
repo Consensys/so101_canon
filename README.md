@@ -1,4 +1,4 @@
-# so101_canon :books:
+# SO101 Canon :books:
 Resources on self-management/organization
 
 # Overview
