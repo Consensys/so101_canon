@@ -17,7 +17,7 @@ Resources on self-management/organization
 ### [Conflict Resolution]
 
 
-# Self Organizing Leaders
+# Self Organizing Leaders :fire:
 * [Enspiral](https://enspiral.com/)
 * [Greater Than](https://www.greaterthan.works/)
 * [Leadwise Academy](https://academy.leadwise.co)
@@ -27,6 +27,6 @@ Resources on self-management/organization
 * [3Box](https://medium.com/3box/3box-culture-a-team-community-and-company-595004959b61)
 
 
-# Resources
+# Resources :thinking:
 * [Reading List](https://github.com/sprrtely/so101_canon/wiki/SO-Reading-List)
   * [Reinventing Organizations Wiki](http://www.reinventingorganizationswiki.com)
