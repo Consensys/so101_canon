@@ -2,7 +2,7 @@
 A crowdsourced knowledge base on any and all things self-management/organization
 
 # Topics
-### ### [#learnSO](https://github.com/ConsenSys/so101_canon/wiki/%23learnSO)
+### [#learnSO](https://github.com/ConsenSys/so101_canon/wiki/%23learnSO)
 ### [#accountability](https://github.com/ConsenSys/so101_canon/wiki/%23accountability)
 ### [#collaboration](https://github.com/ConsenSys/so101_canon/wiki/%23collaboration)
 ### [#decisionmaking](https://github.com/ConsenSys/so101_canon/wiki/%23decisionmaking)
