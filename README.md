@@ -2,11 +2,11 @@
 A crowdsourced knowledge base on any and all things self-management/organization
 
 # Topics
-### [Overview](https://github.com/sprrtely/so101_canon/wiki/Self-Management-Organization-Overview)
-### [Accountability & Roles](https://github.com/sprrtely/so101_canon/wiki/SO101:-Accountability)
-### [Building Our Capacity To Collaborate](https://github.com/sprrtely/so101_canon/wiki/SO101:-Collaboration)
-### [Decision Making](https://github.com/sprrtely/so101_canon/wiki/SO101:-Collaborative-Decision-Making)
-### Conflict Resolution
+### [#learnSO](https://github.com/sprrtely/so101_canon/wiki/Self-Management-Organization-Overview)
+### [#accountability](https://github.com/sprrtely/so101_canon/wiki/SO101:-Accountability)
+### [#collaboration](https://github.com/sprrtely/so101_canon/wiki/SO101:-Collaboration)
+### [#decisionmaking](https://github.com/sprrtely/so101_canon/wiki/SO101:-Collaborative-Decision-Making)
+### #conflictres
 
 ***
 
