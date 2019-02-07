@@ -1,6 +1,9 @@
 # SO101 Canon :books:
 A crowdsourced knowledge base on any and all things self-management/organization
 
+ | [Topics](#topics) | [Primary Frameworks](#primary-frameworks) | [Case Studies](#self-organizing-leaders) | [Resources](#resources) |
+ | ------------- | ------------- | ------------- | ------------- |
+ 
 # Topics
 ### [#learnSO](https://github.com/ConsenSys/so101_canon/wiki/%23learnSO)
 ### [#accountability](https://github.com/ConsenSys/so101_canon/wiki/%23accountability)
