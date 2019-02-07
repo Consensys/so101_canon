@@ -1,4 +1,5 @@
 # SO101 Canon :books:
+A crowdsourced knowledge base on any and all things self-management/organization
 
 # Topics
 ### [#learnSO](https://github.com/ConsenSys/so101_canon/wiki/Defining-Self-Organization)
