@@ -23,7 +23,7 @@ A crowdsourced knowledge base on any and all things self-management/organization
 * [Greater Than](https://www.greaterthan.works/)
 * [Leadwise Academy](https://academy.leadwise.co)
 * [Percolab](http://www.percolab.com/en/self-management-roles-and-process-design/)
-* Morningstar [1](https://hbr.org/2011/12/first-lets-fire-all-the-managers)  [2](https://www.managementexchange.com/story/colleague-letter-understanding-replacing-jobs-commitments)
+* Morningstar [overview](https://www.managementexchange.com/story/colleague-letter-understanding-replacing-jobs-commitments) / [case study](https://hbr.org/2011/12/first-lets-fire-all-the-managers)
 * [Zappos](https://www.zapposinsights.com/about/holacracy)
 * [3Box](https://medium.com/3box/3box-culture-a-team-community-and-company-595004959b61)
 
