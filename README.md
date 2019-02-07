@@ -2,10 +2,10 @@
 A crowdsourced knowledge base on any and all things self-management/organization
 
 # Topics
-### [#learnSO](https://github.com/sprrtely/so101_canon/wiki/Self-Management-Organization-Overview)
-### [#accountability](https://github.com/sprrtely/so101_canon/wiki/SO101:-Accountability)
-### [#collaboration](https://github.com/sprrtely/so101_canon/wiki/SO101:-Collaboration)
-### [#decisionmaking](https://github.com/sprrtely/so101_canon/wiki/SO101:-Collaborative-Decision-Making)
+### [#learnSO]https://github.com/ConsenSys/so101_canon/wiki/Defining-Self-Organization
+### [#accountability](https://github.com/ConsenSys/so101_canon/wiki/SO101:-Accountability)
+### [#collaboration](https://github.com/ConsenSys/so101_canon/wiki/SO101:-Collaboration)
+### [#decisionmaking](https://github.com/ConsenSys/so101_canon/wiki/SO101:-Collaborative-Decision-Making)
 ### #conflictres
 
 ***
@@ -30,6 +30,6 @@ A crowdsourced knowledge base on any and all things self-management/organization
 ***
 
 # Resources
-* [Terminology](https://github.com/sprrtely/so101_canon/wiki/Self-Organization-Terminology)
-* [Reading List](https://github.com/sprrtely/so101_canon/wiki/SO-Reading-List)
+* [Terminology](https://github.com/ConsenSys/so101_canon/wiki/Self-Organization-Terminology)
+* [Reading List](https://github.com/ConsenSys/so101_canon/wiki/SO-Reading-List)
   * [Reinventing Organizations Wiki](http://www.reinventingorganizationswiki.com)
