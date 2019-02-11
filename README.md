@@ -1,7 +1,8 @@
 # SO101 Canon :books:
 A crowdsourced knowledge base on any and all things self-management/organization
 
- | [#learnSO](#learnSO) | [#accountability](#accountability) | [#decisionmaking](#decisionmaking) | [#conflictres](#conflictres) | [Primary Frameworks](#primary-frameworks) | [Case Studies](#self-organizing-leaders) | [Resources](#resources) |
+ | [#learnSO](#learnSO) | [#accountability](#accountability) | [#decisionmaking](#decisionmaking) | [#conflictres](#conflictres) | [Primary Frameworks](#primary-frameworks) | [Case Studies](#self-organizing-leaders) | [Terminology](##terminology) | [Reading List](##reading-list)
+ | ------------- | ------------- | ------------- | ------------- | 
  | ------------- | ------------- | ------------- | ------------- |
  
 # [#learnSO](https://github.com/ConsenSys/so101_canon/wiki/%23learnSO)
@@ -59,7 +60,7 @@ A crowdsourced knowledge base on any and all things self-management/organization
 
 <br>
 ***
-# #conflictres
+# [#conflictres]
 <br>
 
 ***
