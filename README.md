@@ -37,8 +37,6 @@ A crowdsourced knowledge base on any and all things self-management/organization
 **Stewardship**:
 <br>
 <br>
-<br>
-[back to top](#learnSO)
 
 ***
 
@@ -74,8 +72,6 @@ A crowdsourced knowledge base on any and all things self-management/organization
 * [Four Levels of Listening](https://www.youtube.com/watch?v=eLfXpRkVZaI) *Otto Scharmer*
 <br>
 <br>
-<br>
-[back to top](#learnSO)
 
 ***
 
@@ -91,16 +87,12 @@ A crowdsourced knowledge base on any and all things self-management/organization
 
 <br>
 <br>
-<br>
-[back to top](#learnSO)
 
 ***
 
 # [#conflictres]
 <br>
 <br>
-<br>
-[back to top](#learnSO)
 
 ***
 
@@ -111,8 +103,6 @@ A crowdsourced knowledge base on any and all things self-management/organization
 * [Teal Organizations](http://www.reinventingorganizationswiki.com/Teal_Organizations) 
 <br>
 <br>
-<br>
-[back to top](#learnSO)
 
 ***
 
@@ -126,8 +116,6 @@ A crowdsourced knowledge base on any and all things self-management/organization
 * [3Box](https://medium.com/3box/3box-culture-a-team-community-and-company-595004959b61)
 <br>
 <br>
-<br>
-[back to top](#learnSO)
 
 ***
 
