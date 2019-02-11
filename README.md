@@ -1,8 +1,9 @@
 # SO101 Canon :books:
 A crowdsourced knowledge base on any and all things self-management/organization
 
- | [#learnSO](#learnSO) | [Accountability](#accountability) | [Decision Making](#decisionmaking) | [Conflict Resolution](#conflictres) | [Primary Frameworks](#primary-frameworks) | [Case Studies](#self-organizing-leaders) | [Terminology](#resources) | [Reading List](#resources)
- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+ | [#learnSO](#learnSO) | [Accountability](#accountability) | [Collaboration](#collaboration) | [Decision Making](#decisionmaking) | [Conflict Resolution](#conflictres) | 
+ [Primary Frameworks](#primary-frameworks) | [Case Studies](#self-organizing-leaders) | [Terminology](#resources) | [Reading List](#resources) |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
  
 # [#learnSO](https://github.com/ConsenSys/so101_canon/wiki/%23learnSO)
 ## Overview
@@ -31,6 +32,7 @@ A crowdsourced knowledge base on any and all things self-management/organization
 ## Rhythm & Cadence
 * [Workstyle Cadence & Ritual](https://wavelength.asana.com/workstyle-cadence-and-ritual/)
 <br>
+
 ***
 
 # [#collaboration](https://github.com/ConsenSys/so101_canon/wiki/%23collaboration)
@@ -46,7 +48,9 @@ A crowdsourced knowledge base on any and all things self-management/organization
 ## Listening & Communication
 * [Four Levels of Listening](https://www.youtube.com/watch?v=eLfXpRkVZaI) *Otto Scharmer*
 <br>
+
 ***
+
 # [#decisionmaking](https://github.com/ConsenSys/so101_canon/wiki/%23decisionmaking)
 * [How we make decentralized decisions](https://blog.gini.net/how-we-make-decentralized-decisions-ccd2de61b8b2) *Manuel Küblböck*, Gini
 * [Use a Consent-Based Decision Making Model to Avoid Inaction and Groupthink](https://medium.nobl.io/use-a-consent-based-decision-making-model-to-avoid-inaction-and-groupthink-6ac2179e20cb) *Bud Caddell*, NOBL
@@ -58,12 +62,13 @@ A crowdsourced knowledge base on any and all things self-management/organization
 * [Holacracy's Integrative Decision Making Process](https://medium.com/org-hacking/holacracys-integrative-decision-making-process-f750d4b82abc) *Itamar Goldminz*, Org Hacking
 
 <br>
+
 ***
+
 # [#conflictres]
 <br>
 
 ***
-
 
 # Primary Frameworks
 * [Agile](http://agilemethodology.org/)
@@ -73,7 +78,6 @@ A crowdsourced knowledge base on any and all things self-management/organization
 <br>
 
 ***
-
 
 # Self Organizing Leaders
 * [Enspiral](https://enspiral.com/)
