@@ -16,83 +16,6 @@ A crowdsourced knowledge base on any and all things self-management/organization
 * [(Podcast) History of Top-Down Hierarchy](http://leadermorphosis.co/ep-22-chuck-blakeman-on-rehumanising-organisations) _Chuck Blakeman_
 
 ## Defining Self-Organization
-[Terminology](https://github.com/ConsenSys/so101_canon/wiki/Self-Organization-Terminology)
-<br>
-***
-
-# [#accountability](https://github.com/ConsenSys/so101_canon/wiki/%23accountability)
-## Accountability & Roles
-* [Organizational Self-Management Recipe: Hearty Commitment Gumbo](https://www.huffingtonpost.com/entry/organizational-self-management-recipe-hearty-commitment_us_59937e8ee4b0afd94eb3f5d7) _Doug Kirkpatrick_
-* [Self Management Roles and Process Design](http://www.percolab.com/en/self-management-roles-and-process-design/) _Samantha Slade_, Percolab
-* [For Great Teamwork, Start with a Social Contract](https://hbr.org/2012/04/to-ensure-great-teamwork-start) _Christine M. Riordan and Kevin O'Brien_
-* [(Video) The CLOU at Morningstar](https://vimeo.com/28633983) _Paul Green, Jr._, Morningstar
-* [How to Create a Culture of Accountability without becoming Top-Down](https://90digital.com/general/create-culture-of-accountability-13274.html) _Lisa Gill_, Leadwise
-* [How To Hold People Accountable: A Coaching Conversation](https://www.linkedin.com/pulse/how-hold-people-accountable-coaching-conversation-89-fred-kofman/) _Fred Kofman_, Google
-
-## Rhythm & Cadence
-* [Workstyle Cadence & Ritual](https://wavelength.asana.com/workstyle-cadence-and-ritual/)
-<br>
-
-***
-
-# [#collaboration](https://github.com/ConsenSys/so101_canon/wiki/%23collaboration)
-## Trust
-* [Types of Trust In Networks](https://medium.com/virtual-teams-for-systemic-change/types-of-trust-in-networks-6fd7de879d28) *Christine Capra*, Greater than the Sum
-* [Work (How to give an A)](https://www.youtube.com/watch?v=qTKEBygQic0) *Benjamin Zander*
-
-## Parent-Child / Adult-Adult Paradigms
-* [From Patriarchy to Partnership - The Paradigm Shift our Organisations Need](https://corporate-rebels.com/guest-blog-paradigm-shift/) *Corporate Rebels*
-* [Part 1: How To Be An Adult - Kegan's Theory of Adult Development](https://medium.com/@NataliMorad/how-to-be-an-adult-kegans-theory-of-adult-development-d63f4311b553) _Natali Morad_
-* [Transactional Analysis 1: Ego States & Basic Transactions](https://www.youtube.com/watch?v=nKNyFSLJy6o) _TheraminTrees_
-
-## Listening & Communication
-* [Four Levels of Listening](https://www.youtube.com/watch?v=eLfXpRkVZaI) *Otto Scharmer*
-<br>
-
-***
-
-# [#decisionmaking](https://github.com/ConsenSys/so101_canon/wiki/%23decisionmaking)
-* [How we make decentralized decisions](https://blog.gini.net/how-we-make-decentralized-decisions-ccd2de61b8b2) *Manuel Küblböck*, Gini
-* [Use a Consent-Based Decision Making Model to Avoid Inaction and Groupthink](https://medium.nobl.io/use-a-consent-based-decision-making-model-to-avoid-inaction-and-groupthink-6ac2179e20cb) *Bud Caddell*, NOBL
-* [Reinventing Organizations Wiki](http://www.reinventingorganizationswiki.com/Decision_Making)
-
-## Processes
-* [Rebellious Practices: Make Better Decisions with the Advice Process](https://corporate-rebels.com/advice-process/) _Corporate Rebels_
-* [Generative Decision Making](https://medium.com/percolab-droplets/generative-decision-making-process-cf0b131c5ac4) _Percolab_
-* [Holacracy's Integrative Decision Making Process](https://medium.com/org-hacking/holacracys-integrative-decision-making-process-f750d4b82abc) *Itamar Goldminz*, Org Hacking
-
-<br>
-
-***
-
-# [#conflictres]
-<br>
-
-***
-
-# Primary Frameworks
-* [Agile](http://agilemethodology.org/)
-* [Holacracy](https://www.holacracy.org/)
-* [Sociocracy](https://sociocracy30.org/)
-* [Teal Organizations](http://www.reinventingorganizationswiki.com/Teal_Organizations) 
-<br>
-
-***
-
-# Self Organizing Leaders
-* [Enspiral](https://enspiral.com/)
-* [Greater Than](https://www.greaterthan.works/)
-* [Leadwise Academy](https://academy.leadwise.co)
-* [Percolab](http://www.percolab.com/en/self-management-roles-and-process-design/)
-* Morningstar [overview](https://www.managementexchange.com/story/colleague-letter-understanding-replacing-jobs-commitments) / [case study](https://hbr.org/2011/12/first-lets-fire-all-the-managers)
-* [Zappos](https://www.zapposinsights.com/about/holacracy)
-* [3Box](https://medium.com/3box/3box-culture-a-team-community-and-company-595004959b61)
-<br>
-
-***
-
-# Resources
-## [Terminology](https://github.com/ConsenSys/so101_canon/wiki/Self-Organization-Terminology)
 **Accountability**: A sense of responsibility in individuals and groups to follow agreements. Agreements are the legislation which govern the rules of how a team or organization operates.<br>
 <br>
 **Role**: A clearly defined and mutually exclusive area of responsibility. Roles can be filled temporarily or permanently, typically by a single individual.<br>
@@ -113,6 +36,104 @@ A crowdsourced knowledge base on any and all things self-management/organization
 <br>
 **Stewardship**:
 <br>
+<br>
+<br>
+[back to top](#learnSO)
+
+***
+
+# [#accountability](https://github.com/ConsenSys/so101_canon/wiki/%23accountability)
+## Accountability & Roles
+* [Organizational Self-Management Recipe: Hearty Commitment Gumbo](https://www.huffingtonpost.com/entry/organizational-self-management-recipe-hearty-commitment_us_59937e8ee4b0afd94eb3f5d7) _Doug Kirkpatrick_
+* [Self Management Roles and Process Design](http://www.percolab.com/en/self-management-roles-and-process-design/) _Samantha Slade_, Percolab
+* [For Great Teamwork, Start with a Social Contract](https://hbr.org/2012/04/to-ensure-great-teamwork-start) _Christine M. Riordan and Kevin O'Brien_
+* [(Video) The CLOU at Morningstar](https://vimeo.com/28633983) _Paul Green, Jr._, Morningstar
+* [How to Create a Culture of Accountability without becoming Top-Down](https://90digital.com/general/create-culture-of-accountability-13274.html) _Lisa Gill_, Leadwise
+* [How To Hold People Accountable: A Coaching Conversation](https://www.linkedin.com/pulse/how-hold-people-accountable-coaching-conversation-89-fred-kofman/) _Fred Kofman_, Google
+
+## Rhythm & Cadence
+* [Workstyle Cadence & Ritual](https://wavelength.asana.com/workstyle-cadence-and-ritual/)
+<br>
+<br>
+<br>
+[back to top](#learnSO)
+
+***
+
+# [#collaboration](https://github.com/ConsenSys/so101_canon/wiki/%23collaboration)
+## Trust
+* [Types of Trust In Networks](https://medium.com/virtual-teams-for-systemic-change/types-of-trust-in-networks-6fd7de879d28) *Christine Capra*, Greater than the Sum
+* [Work (How to give an A)](https://www.youtube.com/watch?v=qTKEBygQic0) *Benjamin Zander*
+
+## Parent-Child / Adult-Adult Paradigms
+* [From Patriarchy to Partnership - The Paradigm Shift our Organisations Need](https://corporate-rebels.com/guest-blog-paradigm-shift/) *Corporate Rebels*
+* [Part 1: How To Be An Adult - Kegan's Theory of Adult Development](https://medium.com/@NataliMorad/how-to-be-an-adult-kegans-theory-of-adult-development-d63f4311b553) _Natali Morad_
+* [Transactional Analysis 1: Ego States & Basic Transactions](https://www.youtube.com/watch?v=nKNyFSLJy6o) _TheraminTrees_
+
+## Listening & Communication
+* [Four Levels of Listening](https://www.youtube.com/watch?v=eLfXpRkVZaI) *Otto Scharmer*
+<br>
+<br>
+<br>
+[back to top](#learnSO)
+
+***
+
+# [#decisionmaking](https://github.com/ConsenSys/so101_canon/wiki/%23decisionmaking)
+* [How we make decentralized decisions](https://blog.gini.net/how-we-make-decentralized-decisions-ccd2de61b8b2) *Manuel Küblböck*, Gini
+* [Use a Consent-Based Decision Making Model to Avoid Inaction and Groupthink](https://medium.nobl.io/use-a-consent-based-decision-making-model-to-avoid-inaction-and-groupthink-6ac2179e20cb) *Bud Caddell*, NOBL
+* [Reinventing Organizations Wiki](http://www.reinventingorganizationswiki.com/Decision_Making)
+
+## Processes
+* [Rebellious Practices: Make Better Decisions with the Advice Process](https://corporate-rebels.com/advice-process/) _Corporate Rebels_
+* [Generative Decision Making](https://medium.com/percolab-droplets/generative-decision-making-process-cf0b131c5ac4) _Percolab_
+* [Holacracy's Integrative Decision Making Process](https://medium.com/org-hacking/holacracys-integrative-decision-making-process-f750d4b82abc) *Itamar Goldminz*, Org Hacking
+
+<br>
+<br>
+<br>
+[back to top](#learnSO)
+
+***
+
+# [#conflictres]
+<br>
+<br>
+<br>
+[back to top](#learnSO)
+
+***
+
+# Primary Frameworks
+* [Agile](http://agilemethodology.org/)
+* [Holacracy](https://www.holacracy.org/)
+* [Sociocracy](https://sociocracy30.org/)
+* [Teal Organizations](http://www.reinventingorganizationswiki.com/Teal_Organizations) 
+<br>
+<br>
+<br>
+[back to top](#learnSO)
+
+***
+
+# Self Organizing Leaders
+* [Enspiral](https://enspiral.com/)
+* [Greater Than](https://www.greaterthan.works/)
+* [Leadwise Academy](https://academy.leadwise.co)
+* [Percolab](http://www.percolab.com/en/self-management-roles-and-process-design/)
+* Morningstar [overview](https://www.managementexchange.com/story/colleague-letter-understanding-replacing-jobs-commitments) / [case study](https://hbr.org/2011/12/first-lets-fire-all-the-managers)
+* [Zappos](https://www.zapposinsights.com/about/holacracy)
+* [3Box](https://medium.com/3box/3box-culture-a-team-community-and-company-595004959b61)
+<br>
+<br>
+<br>
+[back to top](#learnSO)
+
+***
+
+# Resources
+## [Terminology](https://github.com/ConsenSys/so101_canon/wiki/Self-Organization-Terminology)
+<br>
 ## [Reading List](https://github.com/ConsenSys/so101_canon/wiki/SO-Reading-List)
 - **Reinventing Organizations**   _Frederic Laloux_
   * [Reinventing Organizations Wiki](http://www.reinventingorganizationswiki.com)
@@ -124,4 +145,6 @@ A crowdsourced knowledge base on any and all things self-management/organization
   _Susan Basterfield and Anthony Cabraal_
 - **Stewardship**   _Peter Block_
 - **Everything is Workable**   _Diane Hamilton_
-  
+<br>
+<br>
+[back to top](#learnSO)
