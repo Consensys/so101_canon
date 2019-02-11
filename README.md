@@ -1,7 +1,7 @@
 # SO101 Canon :books:
 A crowdsourced knowledge base on any and all things self-management/organization
 
- | [#learnSO](#learnSO) | [Accountability](#accountability) | [Collaboration](#collaboration) | [Decision Making](#decisionmaking) | [Conflict Resolution](#conflictres) | 
+ | [#learnSO](#learnSO) | [Accountability](#accountability) | [Collaboration](#collaboration) | [Decision Making](#decisionmaking) | [The Self in Self-Organization](#self-organization) | 
  [Primary Frameworks](#primary-frameworks) | [Case Studies](#self-organizing-leaders) | [Terminology](#resources) | [Reading List](#resources) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
  
@@ -48,6 +48,7 @@ A crowdsourced knowledge base on any and all things self-management/organization
 * [(Video) The CLOU at Morningstar](https://vimeo.com/28633983) _Paul Green, Jr._, Morningstar
 * [How to Create a Culture of Accountability without becoming Top-Down](https://90digital.com/general/create-culture-of-accountability-13274.html) _Lisa Gill_, Leadwise
 * [How To Hold People Accountable: A Coaching Conversation](https://www.linkedin.com/pulse/how-hold-people-accountable-coaching-conversation-89-fred-kofman/) _Fred Kofman_, Google
+* [Stewardship](https://www.bkconnection.com/static/Stewardship_2nd_EXCERPT.pdf) _Peter Block_
 
 ## Rhythm & Cadence
 * [Workstyle Cadence & Ritual](https://wavelength.asana.com/workstyle-cadence-and-ritual/)
@@ -88,7 +89,10 @@ A crowdsourced knowledge base on any and all things self-management/organization
 
 ***
 
-# [#conflictres]
+# Self-Organization
+* [12 Keys to the Workplace of the Future](https://www.huffingtonpost.com/great-work-cultures/twelve-keys-to-the-workpl_b_7986378.html)  _Doug Kirkpatrick_
+* [The Power of Self-Awareness: How to Build Successful Teams](https://blog.liberationist.org/self-aware-teams-are-more-successful-why-you-should-care-3afcb59e3554)  _Gustavo Razzetti_
+* [Why a Culture of Violent Politeness is Killing Your Teams](https://medium.com/@reimaginaire/why-a-culture-of-violent-politeness-is-killing-your-teams-7982f6faad77)  _Lisa Gill_ 
 <br>
 <br>
 
