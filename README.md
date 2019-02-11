@@ -53,8 +53,6 @@ A crowdsourced knowledge base on any and all things self-management/organization
 * [Workstyle Cadence & Ritual](https://wavelength.asana.com/workstyle-cadence-and-ritual/)
 <br>
 <br>
-<br>
-[back to top](#learnSO)
 
 ***
 
@@ -123,16 +121,17 @@ A crowdsourced knowledge base on any and all things self-management/organization
 ## [Terminology](https://github.com/ConsenSys/so101_canon/wiki/Self-Organization-Terminology)
 <br>
 ## [Reading List](https://github.com/ConsenSys/so101_canon/wiki/SO-Reading-List)
-- **Reinventing Organizations**   _Frederic Laloux_
+* **Reinventing Organizations**  _Frederic Laloux_
   * [Reinventing Organizations Wiki](http://www.reinventingorganizationswiki.com)
-- **Freedom and Accountability at Work**   _Peter Block_
-- **An Everyone Culture**   _Robert Kegan_
-- **Dialog: The Art of Thinking Together**   _William Isaacs_
-- **Reinventing Scale-Ups: Radical Ideas for Growing Companies**   _Lowe Marsh, Susan Basterfield, and Travis Marsh_
-- **[Better Work Together: How the power of community can transform your business](www.betterworktogether.co)** 
+* **Freedom and Accountability at Work**  _Peter Block_
+* **An Everyone Culture**  _Robert Kegan_
+* **Dialog: The Art of Thinking Together**  _William Isaacs_
+* **Reinventing Scale-Ups: Radical Ideas for Growing Companies**  _Lowe Marsh, Susan Basterfield, and Travis Marsh_
+* **[Better Work Together: How the power of community can transform your business](www.betterworktogether.co)**
   _Susan Basterfield and Anthony Cabraal_
-- **Stewardship**   _Peter Block_
-- **Everything is Workable**   _Diane Hamilton_
+* **Stewardship**  _Peter Block_
+* **Everything is Workable**  _Diane Hamilton_
+
 <br>
-<br>
+
 [back to top](#learnSO)
