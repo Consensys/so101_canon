@@ -32,9 +32,9 @@ A crowdsourced knowledge base on any and all things self-management/organization
 <br>
 **Adult-Adult Paradigm**: An Adult-Adult relationship exists between two individuals when one individual holds equal position in the power dynamic than the other. <br>
 <br>
-**Governance**:
+**Governance**: Governance in SO organizations are made through a set of agreements. These agreements are the legislation which govern the rules of how we operate. <br>
 <br>
-**Stewardship**:
+**Stewardship**: Stewards are facilitators of roles. Stewards look after your relationship with the group, your one guaranteed point of contact for each role. Stewards are responsible for carrying out each role and recruiting other individuals to help with the completion of tasks related to a role.
 <br>
 <br>
 
