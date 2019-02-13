@@ -123,6 +123,7 @@ A crowdsourced knowledge base on any and all things self-management/organization
 
 # Resources
 ## [Terminology](https://github.com/ConsenSys/so101_canon/wiki/Self-Organization-Terminology)
+_Same as **Defining Self-Organization** section under #learnSO_
 ## [Reading List](https://github.com/ConsenSys/so101_canon/wiki/SO-Reading-List)
 * **Reinventing Organizations**  _Frederic Laloux_
   * [Reinventing Organizations Wiki](http://www.reinventingorganizationswiki.com)
