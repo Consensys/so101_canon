@@ -2,7 +2,7 @@
 A crowdsourced knowledge base on any and all things self-management/organization
 
  | [#learnSO](#learnSO) | [Accountability](#accountability) | [Collaboration](#collaboration) | [Decision Making](#decisionmaking) | [SELF-Organization](#self-organization) | 
- [Primary Frameworks](#primary-frameworks) | [Case Studies](#self-organizing-leaders) | [Terminology](#resources) | [Reading List](#resources) |
+ [Governance Systems](#governance-systems) | [Case Studies](#self-organizing-leaders) | [Terminology](#resources) | [Reading List](#resources) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
  
 # [#learnSO](https://github.com/ConsenSys/so101_canon/wiki/%23learnSO)
@@ -93,16 +93,26 @@ A crowdsourced knowledge base on any and all things self-management/organization
 * [12 Keys to the Workplace of the Future](https://www.huffingtonpost.com/great-work-cultures/twelve-keys-to-the-workpl_b_7986378.html)  _Doug Kirkpatrick_
 * [The Power of Self-Awareness: How to Build Successful Teams](https://blog.liberationist.org/self-aware-teams-are-more-successful-why-you-should-care-3afcb59e3554)  _Gustavo Razzetti_
 * [Why a Culture of Violent Politeness is Killing Your Teams](https://medium.com/@reimaginaire/why-a-culture-of-violent-politeness-is-killing-your-teams-7982f6faad77)  _Lisa Gill_ 
+* [Radical Candor is NOT Brutal Honesty](https://medium.com/@KimMaloneScott/radical-candor-is-not-brutal-honesty-6cdeb04cac53)  _Kim Scott_
 <br>
 <br>
 
 ***
 
-# Primary Frameworks
+# Governance Systems
 * [Agile](http://agilemethodology.org/)
 * [Holacracy](https://www.holacracy.org/)
 * [Sociocracy](https://sociocracy30.org/)
-* [Teal Organizations](http://www.reinventingorganizationswiki.com/Teal_Organizations) 
+* [Teal Organizations](http://www.reinventingorganizationswiki.com/Teal_Organizations)
+* [Teleocracy](https://www.huffingtonpost.com/great-work-cultures/the-four-cracies-of-the-f_b_8983406.html)
+* [Workplace Democracy](https://medium.com/@typesfast/out-of-control-by-design-6f7934498c54)
+* [ROWE](http://www.gorowe.com/) (Results-Only Work Environment)
+* [Horizontal Management](https://medium.com/humansnetwork/why-your-business-should-implement-horizontal-management-6399d87d4393)
+* [Self-Management](https://blog.holacracy.org/self-management-human-growth-two-sides-of-a-coin-part-1-5b8707c54372)
+* [Lattice Management](https://hbr.org/2010/11/how-the-corporate-ladder-becam)
+* [Radical Management](https://www.forbes.com/sites/stevedenning/2011/07/08/the-five-big-surprises-of-radical-management/#121beb1d5d98)
+* [Wiki Management](https://optimityadvisors.com/insights/wiki-management)
+
 <br>
 <br>
 
@@ -116,6 +126,7 @@ A crowdsourced knowledge base on any and all things self-management/organization
 * Morningstar [overview](https://www.managementexchange.com/story/colleague-letter-understanding-replacing-jobs-commitments) / [case study](https://hbr.org/2011/12/first-lets-fire-all-the-managers)
 * [Zappos](https://www.zapposinsights.com/about/holacracy)
 * [3Box](https://medium.com/3box/3box-culture-a-team-community-and-company-595004959b61)
+* [Red Hat](https://www.forbes.com/sites/brookmanville/2016/01/28/red-hat-redux-the-open-ish-organization/#6a8d22239dda)
 <br>
 <br>
 
