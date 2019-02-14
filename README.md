@@ -147,7 +147,7 @@ _Same as **Defining Self-Organization** section under #learnSO_
   _Susan Basterfield and Anthony Cabraal_
 * **Stewardship**  _Peter Block_
 * **Everything is Workable**  _Diane Hamilton_
-* **[Immunity To Change](https://www.amazon.com/Immunity-Change-Potential-Organization-Leadership/dp/1422117367)  _Robert Kegan_
+* **[Immunity To Change](https://www.amazon.com/Immunity-Change-Potential-Organization-Leadership/dp/1422117367)**  _Robert Kegan_
 
 <br>
 
