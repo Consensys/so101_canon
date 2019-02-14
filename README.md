@@ -2,7 +2,7 @@
 A crowdsourced knowledge base on any and all things self-management/organization
 
  | [#learnSO](#learnSO) | [Accountability](#accountability) | [Collaboration](#collaboration) | [Decision Making](#decisionmaking) | [SELF-Organization](#self-organization) | 
- [Governance Systems](#governance-systems) | [Case Studies](#self-organizing-leaders) | [Terminology](#resources) | [Reading List](#resources) |
+ [Governance Frameworks](#governance-frameworks) | [Case Studies](#self-organizing-leaders) | [Terminology](#resources) | [Reading List](#resources) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
  
 # [#learnSO](https://github.com/ConsenSys/so101_canon/wiki/%23learnSO)
@@ -94,12 +94,13 @@ A crowdsourced knowledge base on any and all things self-management/organization
 * [The Power of Self-Awareness: How to Build Successful Teams](https://blog.liberationist.org/self-aware-teams-are-more-successful-why-you-should-care-3afcb59e3554)  _Gustavo Razzetti_
 * [Why a Culture of Violent Politeness is Killing Your Teams](https://medium.com/@reimaginaire/why-a-culture-of-violent-politeness-is-killing-your-teams-7982f6faad77)  _Lisa Gill_ 
 * [Radical Candor is NOT Brutal Honesty](https://medium.com/@KimMaloneScott/radical-candor-is-not-brutal-honesty-6cdeb04cac53)  _Kim Scott_
+* [Feedback Sandwich](http://www.percolab.com/en/one-feedback-sandwich-please-hold-the-compliments/)
 <br>
 <br>
 
 ***
 
-# Governance Systems
+# Governance Frameworks
 * [Agile](http://agilemethodology.org/)
 * [Holacracy](https://www.holacracy.org/)
 * [Sociocracy](https://sociocracy30.org/)
