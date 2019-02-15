@@ -1,11 +1,11 @@
 # SO101 Canon :books:
 A crowdsourced knowledge base on any and all things self-management/organization
 
- | [#learnSO](#learnSO) | [Accountability](#accountability) | [Collaboration](#collaboration) | [Decision Making](#decisionmaking) | [SELF-Organization](#self-organization) | 
+ | [#learnSO](#learnSO) | [#accountability](#accountability) | [#collaboration](#collaboration) | [#decisionmaking](#decisionmaking) | [SELF-Organization](#self-organization) |
  [Governance Frameworks](#governance-frameworks) | [Case Studies](#self-organizing-leaders) | [Terminology](#resources) | [Reading List](#resources) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
- 
-# [#learnSO](https://github.com/ConsenSys/so101_canon/wiki/%23learnSO)
+
+# #learnSO
 ## Overview
 * [Self-Organizing 101](https://journal.leadwise.co/self-organizing-101-26c283900d79) *Lisa Gill*, Leadwise
 * [What Are Self-Organising Teams?](https://www.infoq.com/articles/what-are-self-organising-teams) *Peter Hundermark and Sigi Kaltenecker*, InfoQ
@@ -40,7 +40,7 @@ A crowdsourced knowledge base on any and all things self-management/organization
 
 ***
 
-# [#accountability](https://github.com/ConsenSys/so101_canon/wiki/%23accountability)
+# #accountability
 ## Accountability & Roles
 * [Organizational Self-Management Recipe: Hearty Commitment Gumbo](https://www.huffingtonpost.com/entry/organizational-self-management-recipe-hearty-commitment_us_59937e8ee4b0afd94eb3f5d7) _Doug Kirkpatrick_
 * [Self Management Roles and Process Design](http://www.percolab.com/en/self-management-roles-and-process-design/) _Samantha Slade_, Percolab
@@ -57,7 +57,7 @@ A crowdsourced knowledge base on any and all things self-management/organization
 
 ***
 
-# [#collaboration](https://github.com/ConsenSys/so101_canon/wiki/%23collaboration)
+# #collaboration
 ## Trust
 * [Types of Trust In Networks](https://medium.com/virtual-teams-for-systemic-change/types-of-trust-in-networks-6fd7de879d28) *Christine Capra*, Greater than the Sum
 * [Work (How to give an A)](https://www.youtube.com/watch?v=qTKEBygQic0) *Benjamin Zander*
@@ -74,7 +74,7 @@ A crowdsourced knowledge base on any and all things self-management/organization
 
 ***
 
-# [#decisionmaking](https://github.com/ConsenSys/so101_canon/wiki/%23decisionmaking)
+# #decisionmaking
 * [How we make decentralized decisions](https://blog.gini.net/how-we-make-decentralized-decisions-ccd2de61b8b2) *Manuel Küblböck*, Gini
 * [Use a Consent-Based Decision Making Model to Avoid Inaction and Groupthink](https://medium.nobl.io/use-a-consent-based-decision-making-model-to-avoid-inaction-and-groupthink-6ac2179e20cb) *Bud Caddell*, NOBL
 * [Reinventing Organizations Wiki](http://www.reinventingorganizationswiki.com/Decision_Making)
@@ -92,7 +92,7 @@ A crowdsourced knowledge base on any and all things self-management/organization
 # SELF-Organization
 * [12 Keys to the Workplace of the Future](https://www.huffingtonpost.com/great-work-cultures/twelve-keys-to-the-workpl_b_7986378.html)  _Doug Kirkpatrick_
 * [The Power of Self-Awareness: How to Build Successful Teams](https://blog.liberationist.org/self-aware-teams-are-more-successful-why-you-should-care-3afcb59e3554)  _Gustavo Razzetti_
-* [Why a Culture of Violent Politeness is Killing Your Teams](https://medium.com/@reimaginaire/why-a-culture-of-violent-politeness-is-killing-your-teams-7982f6faad77)  _Lisa Gill_ 
+* [Why a Culture of Violent Politeness is Killing Your Teams](https://medium.com/@reimaginaire/why-a-culture-of-violent-politeness-is-killing-your-teams-7982f6faad77)  _Lisa Gill_
 * [Radical Candor is NOT Brutal Honesty](https://medium.com/@KimMaloneScott/radical-candor-is-not-brutal-honesty-6cdeb04cac53)  _Kim Scott_
 * [Feedback Sandwich](http://www.percolab.com/en/one-feedback-sandwich-please-hold-the-compliments/)  _Percolab_
 <br>
@@ -134,9 +134,9 @@ A crowdsourced knowledge base on any and all things self-management/organization
 ***
 
 # Resources
-## [Terminology](https://github.com/ConsenSys/so101_canon/wiki/Self-Organization-Terminology)
+## Terminology
 _Same as **Defining Self-Organization** section under #learnSO_
-## [Reading List](https://github.com/ConsenSys/so101_canon/wiki/SO-Reading-List)
+## Reading List
 * **Reinventing Organizations**  _Frederic Laloux_
   * [Reinventing Organizations Wiki](http://www.reinventingorganizationswiki.com)
 * **Freedom and Accountability at Work**  _Peter Block_
