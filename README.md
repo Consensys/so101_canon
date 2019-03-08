@@ -127,6 +127,7 @@ A crowdsourced knowledge base on any and all things self-management/organization
 * [Percolab](http://www.percolab.com/en/self-management-roles-and-process-design/)
 * Morningstar [overview](https://www.managementexchange.com/story/colleague-letter-understanding-replacing-jobs-commitments) / [case study](https://hbr.org/2011/12/first-lets-fire-all-the-managers)
 * [Zappos](https://www.zapposinsights.com/about/holacracy)
+* [Spotify](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/)
 * [3Box](https://medium.com/3box/3box-culture-a-team-community-and-company-595004959b61)
 * [Red Hat](https://www.forbes.com/sites/brookmanville/2016/01/28/red-hat-redux-the-open-ish-organization/#6a8d22239dda)
 <br>
