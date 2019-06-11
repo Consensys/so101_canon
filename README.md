@@ -60,19 +60,14 @@ A crowdsourced knowledge base on any and all things self-management/organization
 # #collaboration
 ## Trust
 * [Types of Trust In Networks](https://medium.com/virtual-teams-for-systemic-change/types-of-trust-in-networks-6fd7de879d28) *Christine Capra*, Greater than the Sum
-<br>
 * [Work (How to give an A)](https://www.youtube.com/watch?v=qTKEBygQic0) *Benjamin Zander*
-
 ## Parent-Child / Adult-Adult Paradigms
 * [From Patriarchy to Partnership - The Paradigm Shift our Organisations Need](https://corporate-rebels.com/guest-blog-paradigm-shift/) *Corporate Rebels*
-<br>
 * [Part 1: How To Be An Adult - Kegan's Theory of Adult Development](https://medium.com/@NataliMorad/how-to-be-an-adult-kegans-theory-of-adult-development-d63f4311b553) _Natali Morad_
-<br>
 * [Transactional Analysis 1: Ego States & Basic Transactions](https://www.youtube.com/watch?v=nKNyFSLJy6o) _TheraminTrees_
 
 ## Listening & Communication
 * [Four Levels of Listening](https://www.youtube.com/watch?v=eLfXpRkVZaI) *Otto Scharmer*
-<br>
 <br>
 
 ***
@@ -113,28 +108,23 @@ _Collaborative funding_
 ***
 
 # Governance Frameworks
-* [Agile](http://agilemethodology.org/): _Process by which a team manages a project by breaking it up into several stages and involving constant collaboration with stakeholders and continuous improvement and iteration at every stage_ <br>
-<br>
-* [Holacracy](https://www.holacracy.org/): _Method of decentralized management and organizational governance, in which authority and decision-making are distributed throughout a holarchy of self-organizing teams rather than being vested in a management hierarchy_<br>
-<br>
-* [Sociocracy](https://sociocracy30.org/): _Sociocracy, or dynamic governance, is a governance system that aims to create healthy, harmonious social environments, which lead to productive organizations._ <br>
-<br>
-* [Teal Organizations](http://www.reinventingorganizationswiki.com/Teal_Organizations): _This paradigm views the organization as an independent force with its own purpose, and not merely as a vehicle for achieving management's objectives. Assigned positions and job descriptions are replaced with a multiplicity of roles, often self-selected and fluid. People’s actions are guided not by orders from someone up the chain of command but by ‘listening’ to the organization’s purpose._
-<br>
-* [Teleocracy](https://www.huffingtonpost.com/great-work-cultures/the-four-cracies-of-the-f_b_8983406.html): _Management system based on a sense of clear purpose_
-<br>
+* [Agile](http://agilemethodology.org/)<br>
+_Process by which a team manages a project by breaking it up into several stages and involving constant collaboration with stakeholders and continuous improvement and iteration at every stage_
+* [Holacracy](https://www.holacracy.org/)<br>
+_Method of decentralized management and organizational governance, in which authority and decision-making are distributed throughout a holarchy of self-organizing teams rather than being vested in a management hierarchy_
+* [Sociocracy](https://sociocracy30.org/)<br>
+_Sociocracy, or dynamic governance, is a governance system that aims to create healthy, harmonious social environments, which lead to productive organizations._ 
+* [Teal Organizations](http://www.reinventingorganizationswiki.com/Teal_Organizations)<br>
+_This paradigm views the organization as an independent force with its own purpose, and not merely as a vehicle for achieving management's objectives. Assigned positions and job descriptions are replaced with a multiplicity of roles, often self-selected and fluid. People’s actions are guided not by orders from someone up the chain of command but by ‘listening’ to the organization’s purpose._
+* [Teleocracy](https://www.huffingtonpost.com/great-work-cultures/the-four-cracies-of-the-f_b_8983406.html)<br>
+_Management system based on a sense of clear purpose_
 * [Workplace Democracy](https://medium.com/@typesfast/out-of-control-by-design-6f7934498c54)
-<br>
-* [ROWE](http://www.gorowe.com/) (Results-Only Work Environment): _Management strategy designed to increase productivity while eliminating the arbitrary constraints of traditional workplaces_
-<br>
+* [ROWE](http://www.gorowe.com/) (Results-Only Work Environment)<br>
+_Management strategy designed to increase productivity while eliminating the arbitrary constraints of traditional workplaces_
 * [Horizontal Management](https://medium.com/humansnetwork/why-your-business-should-implement-horizontal-management-6399d87d4393)
-<br>
 * [Self-Management](https://blog.holacracy.org/self-management-human-growth-two-sides-of-a-coin-part-1-5b8707c54372)
-<br>
 * [Lattice Management](https://hbr.org/2010/11/how-the-corporate-ladder-becam)
-<br>
 * [Radical Management](https://www.forbes.com/sites/stevedenning/2011/07/08/the-five-big-surprises-of-radical-management/#121beb1d5d98)
-<br>
 * [Wiki Management](https://optimityadvisors.com/insights/wiki-management)
 
 <br>
@@ -144,27 +134,16 @@ _Collaborative funding_
 
 # Self Organizing Leaders
 * [Enspiral](https://enspiral.com/)
-<br>
 * [Greater Than](https://www.greaterthan.works/)
-<br>
 * [Leadwise Academy](https://academy.leadwise.co)
-<br>
 * [Percolab](http://www.percolab.com/en/self-management-roles-and-process-design/)
-<br>
 * Morningstar [overview](https://www.managementexchange.com/story/colleague-letter-understanding-replacing-jobs-commitments) / [case study](https://hbr.org/2011/12/first-lets-fire-all-the-managers)
-<br>
 * [Linux](https://www.process.st/how-was-linux-created/)
 * [Zappos](https://www.zapposinsights.com/about/holacracy)
-<br>
 * [Spotify](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/)
-<br>
 * [3Box](https://medium.com/3box/3box-culture-a-team-community-and-company-595004959b61)
-<br>
 * [Red Hat](https://www.forbes.com/sites/brookmanville/2016/01/28/red-hat-redux-the-open-ish-organization/#6a8d22239dda)
-<br>
 * [Doist](https://doist.com/blog/decision-making-flat-organization/)
-<br>
-<br>
 
 ***
 
@@ -184,7 +163,7 @@ _Same as **Defining Self-Organization** section under #learnSO_
 * **Everything is Workable**  _Diane Hamilton_
 * **[Immunity To Change](https://www.amazon.com/Immunity-Change-Potential-Organization-Leadership/dp/1422117367)**  _Robert Kegan_
 * **[Holacracy: The New Management System for a Rapidly Changing World](https://www.amazon.com/Holacracy-Management-System-Rapidly-Changing/dp/162779428X)** _Brian J. Robertson_
-* **[Beyond Empowerment, The Age of the Self-Managed Organization](https://www.amazon.com/Beyond-Empowerment-Age-Self-Managed-Organization/dp/0615470149/) _Doug Kirkpatrick_
+* **[Beyond Empowerment, The Age of the Self-Managed Organization](https://www.amazon.com/Beyond-Empowerment-Age-Self-Managed-Organization/dp/0615470149/)** _Doug Kirkpatrick_
 
 
 [back to top](#learnSO)
