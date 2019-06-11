@@ -84,13 +84,29 @@ A crowdsourced knowledge base on any and all things self-management/organization
 * [Rebellious Practices: Make Better Decisions with the Advice Process](https://corporate-rebels.com/advice-process/) _Corporate Rebels_
 * [Generative Decision Making](https://medium.com/percolab-droplets/generative-decision-making-process-cf0b131c5ac4) _Percolab_
 * [Holacracy's Integrative Decision Making Process](https://medium.com/org-hacking/holacracys-integrative-decision-making-process-f750d4b82abc) *Itamar Goldminz*, Org Hacking
-
+* [Rough Consensus](https://doist.com/blog/decision-making-flat-organization/) _Doist_
+* [Alternative Decision Making Processes for Consensus-Blocked Decisions in the IETF](https://tools.ietf.org/html/rfc3929) _Internet Engineering Task Force (IETF)_
 <br>
 <br>
-
+## Tools
+* [Loomio](https://github.com/loomio/loomio)
+_Collaborative open-source decision-making platform_
+<br>
+* [Trello](https://trello.com)
+_Free, intuitive project management tool_
+<br>
+* [Todoist](https://todoist.com/)
+_Intelligent task management_
+<br>
+* [Twist](https://twist.com)
+_Organized, productive async team communications platform_
+<br>
+* [Cobudget](https://cobudget.co/#/)
+_Collaborative funding_
+<br>
 ***
 
-# SELF-Organization
+# **Self**-Organization
 * [12 Keys to the Workplace of the Future](https://www.huffingtonpost.com/great-work-cultures/twelve-keys-to-the-workpl_b_7986378.html)  _Doug Kirkpatrick_
 * [The Power of Self-Awareness: How to Build Successful Teams](https://blog.liberationist.org/self-aware-teams-are-more-successful-why-you-should-care-3afcb59e3554)  _Gustavo Razzetti_
 * [Why a Culture of Violent Politeness is Killing Your Teams](https://medium.com/@reimaginaire/why-a-culture-of-violent-politeness-is-killing-your-teams-7982f6faad77)  _Lisa Gill_
@@ -130,6 +146,8 @@ A crowdsourced knowledge base on any and all things self-management/organization
 * [Spotify](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/)
 * [3Box](https://medium.com/3box/3box-culture-a-team-community-and-company-595004959b61)
 * [Red Hat](https://www.forbes.com/sites/brookmanville/2016/01/28/red-hat-redux-the-open-ish-organization/#6a8d22239dda)
+* [Doist](https://doist.com/blog/decision-making-flat-organization/)
+* [IETF](
 <br>
 <br>
 
