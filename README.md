@@ -2,7 +2,7 @@
 A crowdsourced knowledge base on any and all things self-management/organization.
 
 | [#learnSO](#learnSO) | [#accountability](#accountability) | [#collaboration](#collaboration) | [#decisionmaking](#decisionmaking) | [SELF-Organization](#self-organization) |
-| :---: | :---: | :---: | :---: | :---: | 
+:---: | :---: | :---: | :---: | :---: | :---: | :---:
 [**Governance Frameworks**](#governance-frameworks) | [**Case Studies**](#self-organizing-leaders) | [**Terminology**](#resources) | [**Reading List**](#resources) | [**Contribute**](#contribute)
 
 
@@ -176,7 +176,7 @@ _Same as **Defining Self-Organization** section under #learnSO_
 # Contribute
 **TL;DR**: All contributions welcome! Just open an issue or PR with the content source.
 
-At ConsenSys, we were fortunate to receive the guidance from the instructors at [Enspiral](https://enspiral.com/). This list of resources was curated mainly by our kicka$$ instructors (shoutout to [Kate](mailto:kate.beecroft@enspiral.com) and [Susan](susan.basterfield@consensys.net)), though we are well aware that this is just the tip of the iceberg with the wealth of content, reading materials and other media about self-managed organizations out there. With that said, if you come across other inspiring content that would benefit this library, we would love to see this library continue to grow and improve.
+At ConsenSys, we were fortunate to receive the invaluable guidance of [Enspiral](https://enspiral.com/) to help us build more holistic and robust self-managed organizations/systems, as well as provide ways to adopt actionable practices into our daily work routines. This list of resources was curated mainly by our kicka$$ instructors (shoutout to [Kate](mailto:kate.beecroft@enspiral.com) and [Susan](susan.basterfield@consensys.net)!), though we are well aware that this is just the tip of the iceberg with the wealth of content, reading materials and other media about self-managed organizations out there. With that said, if you come across other inspiring content that would benefit this library, we would love to see this library continue to grow and improve.
 
 Wishing you and your team all the best with becoming self-organized! :blush:
 
