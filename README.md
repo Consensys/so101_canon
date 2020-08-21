@@ -2,7 +2,7 @@
 A crowdsourced knowledge base on any and all things self-management/organization.
 
 | [#learnSO](#learnSO) | [#accountability](#accountability) | [#collaboration](#collaboration) | [#decisionmaking](#decisionmaking) | [SELF-Organization](#self-organization) |
-:---: | :---: | :---: | :---: | :---: | :---: | :---:
+:---: | :---: | :---: | :---: | :---:
 [**Governance Frameworks**](#governance-frameworks) | [**Case Studies**](#self-organizing-leaders) | [**Terminology**](#resources) | [**Reading List**](#resources) | [**Contribute**](#contribute)
 
 
