@@ -1,9 +1,9 @@
 # SO101 Canon :books:
-A crowdsourced knowledge base on any and all things self-management/organization
+A crowdsourced knowledge base on any and all things self-management/organization.
 
 | [#learnSO](#learnSO) | [#accountability](#accountability) | [#collaboration](#collaboration) | [#decisionmaking](#decisionmaking) | [SELF-Organization](#self-organization) |
 | :---: | :---: | :---: | :---: | :---: | 
-| | [Governance Frameworks](#governance-frameworks) | [Case Studies](#self-organizing-leaders) | [Terminology](#resources) | [Reading List](#resources) |
+[**Governance Frameworks**](#governance-frameworks) | [**Case Studies**](#self-organizing-leaders) | [**Terminology**](#resources) | [**Reading List**](#resources) | [**Contribute**](#contribute)
 
 
 # #learnSO
@@ -37,7 +37,7 @@ A crowdsourced knowledge base on any and all things self-management/organization
 **Stewardship**: Stewards are facilitators of roles. Stewards look after your relationship with the group, your one guaranteed point of contact for each role. Stewards are responsible for carrying out each role and recruiting other individuals to help with the completion of tasks related to a role.
 <br>
 <br>
-
+[back to top](#learnSO)
 ***
 
 # #accountability
@@ -54,7 +54,7 @@ A crowdsourced knowledge base on any and all things self-management/organization
 * [Workstyle Cadence & Ritual](https://wavelength.asana.com/workstyle-cadence-and-ritual/)
 <br>
 <br>
-
+[back to top](#learnSO)
 ***
 
 # #collaboration
@@ -70,6 +70,7 @@ A crowdsourced knowledge base on any and all things self-management/organization
 * [Four Levels of Listening](https://www.youtube.com/watch?v=eLfXpRkVZaI) *Otto Scharmer*
 <br>
 
+[back to top](#learnSO)
 ***
 
 # #decisionmaking
@@ -96,6 +97,7 @@ _Organized, productive async team communications platform_
 * [Cobudget](https://cobudget.co/#/)<br>
 _Collaborative funding_
 
+[back to top](#learnSO)
 ***
 
 # SELF-Organization
@@ -105,6 +107,7 @@ _Collaborative funding_
 * [Radical Candor is NOT Brutal Honesty](https://medium.com/@KimMaloneScott/radical-candor-is-not-brutal-honesty-6cdeb04cac53)  _Kim Scott_
 * [Feedback Sandwich](http://www.percolab.com/en/one-feedback-sandwich-please-hold-the-compliments/)  _Percolab_
 
+[back to top](#learnSO)
 ***
 
 # Governance Frameworks
@@ -133,7 +136,7 @@ _Management strategy designed to increase productivity while eliminating the arb
 ***
 
 # Self Organizing Leaders
-* [Enspiral](https://enspiral.com/)
+* [Enspiral](https://enspiral.com/) | [handbook](https://handbook.enspiral.com/)
 * [Greater Than](https://www.greaterthan.works/)
 * [Leadwise Academy](https://academy.leadwise.co)
 * [Percolab](http://www.percolab.com/en/self-management-roles-and-process-design/)
@@ -144,6 +147,9 @@ _Management strategy designed to increase productivity while eliminating the arb
 * [3Box](https://medium.com/3box/3box-culture-a-team-community-and-company-595004959b61)
 * [Red Hat](https://www.forbes.com/sites/brookmanville/2016/01/28/red-hat-redux-the-open-ish-organization/#6a8d22239dda)
 * [Doist](https://doist.com/blog/decision-making-flat-organization/)
+* [Gitlab]()
+
+[back to top](#learnSO)
 
 ***
 
@@ -165,5 +171,13 @@ _Same as **Defining Self-Organization** section under #learnSO_
 * **[Holacracy: The New Management System for a Rapidly Changing World](https://www.amazon.com/Holacracy-Management-System-Rapidly-Changing/dp/162779428X)** _Brian J. Robertson_
 * **[Beyond Empowerment, The Age of the Self-Managed Organization](https://www.amazon.com/Beyond-Empowerment-Age-Self-Managed-Organization/dp/0615470149/)** _Doug Kirkpatrick_
 
+[back to top](#learnSO)
+
+# Contribute
+**TL;DR**: All contributions welcome! Just open an issue or PR with the content source.
+
+At ConsenSys, we were fortunate to receive the guidance from the instructors at [Enspiral](https://enspiral.com/). This list of resources was curated mainly by our kicka$$ instructors (shoutout to [Kate](mailto:kate.beecroft@enspiral.com) and [Susan](susan.basterfield@consensys.net)), though we are well aware that this is just the tip of the iceberg with the wealth of content, reading materials and other media about self-managed organizations out there. With that said, if you come across other inspiring content that would benefit this library, we would love to see this library continue to grow and improve.
+
+Wishing you and your team all the best with becoming self-organized! :blush:
 
 [back to top](#learnSO)
